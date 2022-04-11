@@ -2,11 +2,15 @@
 Fastest Python Discord Server Nuker
 
 Installation And Use
-Open the Releases Page.
-Click on the latest version.
-Click on the AveryNuker.zip.
+
+Click on code(Green button).
+
+Click on download ZIP.
+
 Extract the zip.
+
 Open avery.exe.
+
 Enter your user token or bot token.
 
 # Warning
