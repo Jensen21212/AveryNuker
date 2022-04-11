@@ -7,7 +7,7 @@ Click on code(Green button).
 
 Click on download ZIP.
 
-Extract the zip.
+Extract the ZIP.
 
 Open AveryNuker.exe.
 
