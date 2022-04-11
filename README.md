@@ -9,7 +9,7 @@ Click on download ZIP.
 
 Extract the zip.
 
-Open avery.exe.
+Open AveryNuker.exe.
 
 Enter your user token or bot token.
 
